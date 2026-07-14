@@ -47,7 +47,7 @@ Para modelar esto, implementamos **FDE (First-Degree Entailment)**, un sistema l
 python FDE_truth_tables.py
 ```
 
-## Ejemplo de Salida
+### Ejemplo de Salida
 ```Plaintext
 --- Tabla: AND (FDE) ---
      A           B        A AND B   

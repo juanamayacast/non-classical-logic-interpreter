@@ -48,7 +48,7 @@ To model this, we implement **FDE (First-Degree Entailment)**, a 4-valued logic 
 python FDE_truth_tables.py
 ```
 
-## Example Output Sample
+### Example Output Sample
 ```Plaintext
 --- Tabla: AND (FDE) ---
      A           B        A AND B   
